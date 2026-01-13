@@ -93,8 +93,11 @@ source .venv/bin/activate
 ```bash
 pip install -r requirements.txt
 
+### 4. Instalar Plotly
 
-### 4. Executar o Streamlit
+pip install plotly
+
+### 5. Executar o Streamlit
 
 ```bash
 streamlit run app/streamlit_app.py
