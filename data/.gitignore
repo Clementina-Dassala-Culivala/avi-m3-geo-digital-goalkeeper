@@ -1,0 +1,17 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Dados grandes (opcional, mas recomendado)
+data/processed/
+
+# Sistema
+.DS_Store
+Thumbs.db

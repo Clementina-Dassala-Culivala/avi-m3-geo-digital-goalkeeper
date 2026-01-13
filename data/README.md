@@ -1,0 +1,1 @@
+Esta pasta contém os dados brutos e processados utilizados no protótipo do Gémeo Digital Analítico.

@@ -1,0 +1,1 @@
+Protótipo funcional de um Gémeo Digital Analítico para apoio à decisão no treino de guarda-redes de andebol, desenvolvido no âmbito da UC Apresentação e Visualização da Informação.
